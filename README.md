@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phillsu" alt="phillsu" /></a> </p>
 
-- 🌱 I’m currently learning **NLP, Jetson and Cuda**
-
+- 🌱 I’m currently research on **NLP, Jetson, robotics and Cuda**
+  
 - 👨‍💻 All of my projects are available at [https://github.com/Phillsu](https://github.com/Phillsu)
 
 - 📫 How to reach me **M1326021@o365.fcu.edu.tw**
