@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/phillip-su-35877121b/](https://www.linkedin.com/in/phillip-su-35877121b/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
