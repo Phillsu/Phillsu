@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phillip Su</h1>
-<h3 align="center">A Research Assistant in Dr. Lin's NLP lab</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phillsu&label=Profile%20views&color=0e75b6&style=flat" alt="phillsu" /> </p>
 
