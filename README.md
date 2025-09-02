@@ -9,7 +9,7 @@
   
 - 👨‍💻 All of my projects are available at [https://github.com/Phillsu](https://github.com/Phillsu)
 
-- 📫 How to reach me **M1326021@o365.fcu.edu.tw**
+- 📫 How to reach me **comming soon**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/phillip-su-35877121b/](https://www.linkedin.com/in/phillip-su-35877121b/)
 
