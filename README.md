@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phillsu" alt="phillsu" /></a> </p>
 
-- 🌱 I’m currently research on **Robotics**
+- 🌱 I’m currently research on **Nothing!**
   
 - 👨‍💻 All of my projects are available at [https://github.com/Phillsu](https://github.com/Phillsu)
 
