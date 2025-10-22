@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **comming soon**
 
-- 📄 Know about my experiences at [www.linkedin.com/in/tang-wei-su-35877121b](www.linkedin.com/in/tang-wei-su-35877121b)
+- 📄 Know about my experiences at [www.linkedin.com/in/phillsu6666](www.linkedin.com/in/phillsu6666)
 
 <p align="left">
 </p>
