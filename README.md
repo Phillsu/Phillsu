@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phillip Su</h1>
 <h3 align="center">Robotics Researcher | AI/ML Engineer | Building Intelligent Perception Systems</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=phillsu&rank=S,AAA,AA,A&theme=onedark&row=2&column=4" alt="phillsu" />
-  </a>
-</p>
-
 - 🌱 Researching **robotic manipulation**, **imitation learning**, and **vision-based instrument understanding**
 - 🔧 Building **end-to-end systems** for gauge classification, reading, and novelty detection
 - 👨‍💻 All projects are on [GitHub](https://github.com/phillsu)
