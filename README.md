@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Phillip Su</h1>
-<h3 align="center">Robotics Researcher | AI/ML Engineer | Building Intelligent Perception Systems</h3>
 
 - 🌱 Research interest in **Robotic** and **VLA**
 - 👨‍💻 All projects are on [GitHub](https://github.com/phillsu)
