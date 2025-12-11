@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phillip Su</h1>
 <h3 align="center">Robotics Researcher | AI/ML Engineer | Building Intelligent Perception Systems</h3>
 
-- 🌱 Research interest in **robotic manipulation** and **VLA**
+- 🌱 Research interest in **Robotic manipulation** and **VLA**
 - 👨‍💻 All projects are on [GitHub](https://github.com/phillsu)
 - 📄 Professional experience on [LinkedIn](https://www.linkedin.com/in/phillsu6666)
 - 📩 Feel free to reach out via LinkedIn for collaboration or opportunities
