@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phillip Su</h1>
 
-- 🌱 Research interest in **Robotic** and **VLA**
+- 🌱 Research interest in **Nothing**
 - 👨‍💻 All projects are on [GitHub](https://github.com/phillsu)
 - 📄 Professional experience on [LinkedIn](https://www.linkedin.com/in/phillsu6666)
 - 📩 Feel free to reach out via LinkedIn for collaboration or opportunities
@@ -18,9 +18,6 @@
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit_learn" width="40" height="40"/>
   </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
