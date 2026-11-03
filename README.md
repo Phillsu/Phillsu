@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phillip Su</h1>
 
-- 🌱 Research interest in **Robotic & Edge Computing**
+- 🌱 Research interest in **Robotics**
 - 👨‍💻 All projects are on [GitHub](https://github.com/phillsu)
 - 📄 Professional experience on [LinkedIn](https://www.linkedin.com/in/phillsu6666)
 - 📩 Feel free to reach out via LinkedIn for collaboration or opportunities
